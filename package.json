@@ -1,0 +1,16 @@
+{
+  "name": "tensorflow-learn",
+  "version": "1.0.0",
+  "description": "a demo to learn TensorFlow",
+  "main": "index.js",
+  "repository": "https://github.com/wuhaodes/tensorflow-learn.git",
+  "author": "wuhaodes@qq.com",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs": "^1.5.1",
+    "typescript": "^3.7.4"
+  },
+  "scripts": {
+    "run": "node index.ts"
+  }
+}
